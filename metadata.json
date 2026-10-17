@@ -1,0 +1,6 @@
+{
+  "name": "كايزن موتورز | مركز صيانة السيارات اليابانية",
+  "description": "منصة حجز مواعيد صيانة واختبار السيارات اليابانية المعتمدة بقطع غيار أصلية وتقنيات فحص متطورة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
